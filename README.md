@@ -1,6 +1,6 @@
 ## Goedemorgen, Goedemiddag, of Goedeavond 🤝
 
-I am currently studying the final semester of my Informatics Bachelor's degree at the Norwegian University of Science and Technology. In my degree I have been mainly focusing on web development, with sprinkles of data mining and data science. All the courses I've studied throughout my degree can be found in my [collective repository](https://github.com/Furdook/NTNU) along with relevant codebases and code snippets.
+I am currently studying the final semester of my Informatics Bachelor's degree at the Norwegian University of Science and Technology. In my degree I have been mainly focusing on web development, with sprinkles of data mining and data science. All the courses I've studied throughout my degree can be found in my [collective repository](https://github.com/Furdook/NTNU) along with relevant codebases and code snippets. Predominantly focused on React developent and a love for CSS, with a recently sparked interest in Vue.js ☘️
 
 ### Ongoing Courses 🎓
 &nbsp;&nbsp;&nbsp;ℹ️&nbsp;&nbsp;&nbsp;Information Systems\
@@ -8,11 +8,10 @@ I am currently studying the final semester of my Informatics Bachelor's degree a
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;&nbsp;Customer Driven Project\
 &nbsp;&nbsp;&nbsp;🗺️&nbsp;&nbsp;&nbsp;Geographical Information Systems
 <br/>
-<br/>
 ### FurGroove 🦊
 For the past year I've been volunteering as a web developer for this Dutch event organiser, creating their informational webpage for attendees. After multiple iterations and three separate event websites, we now have a collective page for all relevant information
 
-This repository can be viewed [here](https://github.com/Furdook/furgroove)!
+This repository can be viewed [here](https://github.com/Furdook/furgroove), and is built in Next.js, using TailwindCSS
 <br/>
 <br/>
 #### Tot ziens! 👋
