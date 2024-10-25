@@ -6,7 +6,8 @@ I am currently studying the final semester of my Informatics Bachelor's degree a
 &nbsp;&nbsp;&nbsp;ℹ️&nbsp;&nbsp;&nbsp;Information Systems\
 &nbsp;&nbsp;&nbsp;🔭&nbsp;&nbsp;&nbsp;Applied Data Science\
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;&nbsp;Customer Driven Project\
-&nbsp;&nbsp;&nbsp;🗺️&nbsp;&nbsp;&nbsp;Geographical Information Systems
+&nbsp;&nbsp;&nbsp;🗺️&nbsp;&nbsp;&nbsp;Geographical Information Systems\
+&nbsp;&nbsp;&nbsp;🪪&nbsp;&nbsp;&nbsp;Ethical Hacking & Penetration Testing
 <br/>
 ### FurGroove 🦊
 For the past year I've been volunteering as a web developer for this Dutch event organiser, creating their informational webpage for attendees. After multiple iterations and three separate event websites, we now have a collective page for all relevant information
